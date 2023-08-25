@@ -13,18 +13,18 @@ This project is structured around two pivotal Python scripts:
 
 Steps to get started:
 
-1.Ascertain that Python is set up on your device - ideally, Python 3.7 or a later version.
+1 .Ascertain that Python is set up on your device - ideally, Python 3.7 or a later version.
 
-2.Make a clone of the given repository.
+2 .Make a clone of the given repository.
 
-3.Lay down the necessary tools using the command: pip install -r requirements.txt.
+3 .Lay down the necessary tools using the command: pip install -r requirements.txt.
 
-4.Fashion a .env file, inserting essential environment variables, notably your mnemonic seed phrase.
+4 .Fashion a .env file, inserting essential environment variables, notably your mnemonic seed phrase.
 
-5.Launch the Streamlit tool via: streamlit run krypto_jobs.py.
+5 .Launch the Streamlit tool via: streamlit run krypto_jobs.py.
 
-6.Use the URL supplied by Streamlit, be it local or network-based, to access the application.
+6 .Use the URL supplied by Streamlit, be it local or network-based, to access the application.
 
-Visual Overview
+## Visual Overview
 
 Ganache Snapshot: A visual capture presents the Ganache account, spotlighting specifics like the address, existing funds, and the tally of transactions (TX).
