@@ -15,9 +15,7 @@ Steps to get started:
 
 1. Ascertain that Python is set up on your device - ideally, Python 3.7 or a later version.
 
-2. Make a clone of the given repository.
-
-``` https://github.com/Aaronbunting/Jobs2goKrypto.git ```
+2. Make a clone of the given repository. ``` https://github.com/Aaronbunting/Jobs2goKrypto.git ```
 
 
 4. Fashion a ```.env``` file, inserting essential environment variables, notably your mnemonic seed phrase.
