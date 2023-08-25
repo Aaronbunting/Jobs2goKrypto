@@ -26,9 +26,9 @@ KryptoJobs2Go offers a platform tailored for the hiring of Fintech specialists, 
 
 This project is structured around two pivotal Python scripts:
 
-* crypto_wallet.py: This module houses the essential functionalities such as generating an Ethereum profile, inquiring about an account's funds, and orchestrating transactions between accounts.
+* ``` crypto_wallet.py ```: This module houses the essential functionalities such as generating an Ethereum profile, inquiring about an account's funds, and orchestrating transactions between accounts.
 
-* krypto_jobs.py: This is the primary script that shapes the application, leveraging Streamlit to manifest a user-friendly web interface. Here, users can cherry-pick a candidate, input the service duration, and proceed with an Ether transaction as payment.
+* ``` krypto_jobs.py ```: This is the primary script that shapes the application, leveraging Streamlit to manifest a user-friendly web interface. Here, users can cherry-pick a candidate, input the service duration, and proceed with an Ether transaction as payment.
 
 ## Initialization
 
