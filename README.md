@@ -17,11 +17,12 @@ Steps to get started:
 
 2. Make a clone of the given repository.
 
-3. Lay down the necessary tools using the command: pip install -r requirements.txt.
+``` https://github.com/Aaronbunting/Jobs2goKrypto.git ```
 
-4. Fashion a .env file, inserting essential environment variables, notably your mnemonic seed phrase.
 
-5. Launch the Streamlit tool via: streamlit run krypto_jobs.py.
+4. Fashion a ```.env``` file, inserting essential environment variables, notably your mnemonic seed phrase.
+
+5. Launch the Streamlit tool via: ```streamlit run krypto_jobs.py```.
 
 6. Use the URL supplied by Streamlit, be it local or network-based, to access the application.
 
