@@ -45,6 +45,11 @@ Steps to get started:
 
 6. Use the URL supplied by Streamlit, be it local or network-based, to access the application.
 
+
 ## Visual Overview
 
 Ganache Snapshot: A visual capture presents the Ganache account, spotlighting specifics like the address, existing funds, and the tally of transactions (TX).
+
+![krypto_jobs](https://github.com/Aaronbunting/Jobs2goKrypto/assets/128101698/2c20d009-7a6d-4618-a37b-155de6adc862)
+
+
